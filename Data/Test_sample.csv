@@ -1,0 +1,65 @@
+Disease-Label,Input text
+Fungal infection,I have some patches on my skin as well as rashes.
+Allergy,I am sneezing a lot. I am also getting lots of chills. I am still shivering.
+GERD,My stomach is paining. I feel I have acidity
+Peptic ulcer diseae,Have been having indigestion since few days. I vomitted 2 times today.
+AIDS,My muscles seem to be wasting pretty fast. I am also feeling feverish.
+Diabetes ,I am an obese person. But I have recently noticed an increase in apetitie. Sometimes my vision goes blur.
+Gastroenteritis,I have been having diarrhea and vomiting since 2 days.
+Bronchial Asthma,I have a family history of asthama. I have some of my own concerns about my cough
+Hypertension ,I am feeling dizzy with a sharp headache.
+Migraine,I am noticing that I am very hungry these days. I feel very disturbed by looking at my surroundings.
+Cervical spondylosis,My back looks kind of curved. I am not able to balance properly.
+Paralysis (brain hemorrhage),One side of my body feels weak.
+Jaundice,My skin has turned yellow and I have fatigue.
+Dengue,"I feel pain in my eyes and feeling fatigued,"
+Typhoid,My stomach is paining and I seem to be constipated at the moment.
+Hepatitis,My urine is very yellowish and I feel pain in my abdomen.
+Tuberculosis,My chest is paining. I have some cough as well. Getting chills
+Common Cold,My eyes have turned red. I also seem to have malaise.
+Pneumonia,I have a faster heart rate and I am sweating a lot.
+Dimorphic hemmorhoids(piles),My anus is itching a lot. Feeling constipated
+Heart attack,I have chest pain and breathlessness.
+Varicose veins,My legs look swollen. I bruise easily and get cramps
+Hypothyroidism,Feeling lethargic and dizzy
+Hypoglycemia,My lips are all dry and chapped. My speech is very unclear.
+Osteoarthristis,My joints are paining and swelling. I have unbearable pain in my neck.
+Arthritis,I feel very stiff. Its painful to walk
+Acne,Have been gaining lot of skin rashes and blackheads.
+Urinary tract infection,Feel like urinating every half hour. My urine smells very bad.
+Impetigo,I am getting blisters and yellow ooze.
+greeting,Hello
+name,What is your name?
+problem_solving,help me
+Fungal infection,I am having nodal skin erruptions.
+Allergy,Getting chills and my eyes are teary.
+GERD, I got ulcers on my tongue. My chest has been paining since morning.
+Peptic ulcer diseae,I feel an itch internally and I am passing a lot of gas.
+AIDS,I got an high fever after having sexual contacts.
+Diabetes ,Feeling polyuria and lethargic
+Gastroenteritis,My eyes are sunken.
+Bronchial Asthma,Got mucus in my sputum and cough a lot
+Hypertension ,I am having a headache and feeling dizzy
+Migraine,My neck is getting stiffer and I have a headache.
+Cervical spondylosis,My limbs feel weak and my back is paining.
+Paralysis (brain hemorrhage),Feeling as if my senses have altered.
+Jaundice,Yellow skin and dark yellow urine
+Dengue,Back pain and malaise
+Typhoid,My belly is paining and feeling nausea.
+Hepatitis,Yellowish skin and yellow urine
+Tuberculosis,Feel like my lymph nodes are swollen and also feeling mild fever.
+Common Cold,I have got a runny nose and sinuses filled.
+Pneumonia,malaise and rusty sputum
+Dimorphic hemmorhoids(piles),There is blood in my stools and feel pain passing a bowel moment.
+Heart attack,I am sweating and feel breathless.
+Varicose veins,There are veins very prominent on my calf the blood vessels feel swollen
+Hypothyroidism,My face and eyes seem puffy.
+Hypoglycemia,palpitations and sweating
+Osteoarthristis,Feeling pain at my hip joint.
+Arthritis,I have very stiff movements and its painful to walk
+Acne,My face pimples are filled with pus
+Urinary tract infection,Feeling discomfort at my bladder and constant urge to urinate.
+Impetigo,Getting blisters and sores around nose.
+greeting,Hi Bot
+name,What should I call you?
+problem_solving,I am having problems

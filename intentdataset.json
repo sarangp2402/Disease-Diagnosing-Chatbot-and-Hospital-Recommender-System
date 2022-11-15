@@ -1,0 +1,204 @@
+{"intents": [
+	  {"tag": "unknown",
+         "patterns": [""],
+         "responses": ["Sorry. I don't know what that means."],
+         "context_set": [""]
+        },  
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Hi there, how can I help?"],
+         "context_set": [""]
+        },   
+	  {"tag": "bye",
+         "patterns": ["Bye", "bye bot", "see you later", "adios", "good bye", "goodbye"],
+         "responses": ["Good bye. Get well soon!!"],
+         "context_set": [""]
+        }, 
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me bot.", "I'm bot!", "I'm bot."],
+         "context_set": [""]
+        },
+        {"tag": "problem_solving",
+        "patterns": ["i need help","help me","tell me","i have some problem","problem","can you help me?"],
+        "responses": ["yes i can help you","tell me what can i do for you","what do you want me to do","how can i help you","what kind of help do you need","tell me"],
+        "context_set": [""]
+        },
+	  {"tag": "symptom_solving",
+        "patterns": ["i am having symptoms","sign of symptoms","concern regarding symptoms"],
+        "responses": ["Please state your symptoms so that I can attempt to diagnose your condition."],
+        "context_set": [""]
+        },
+        {
+        	"tag":"Fungal infection",
+        	"patterns":["dischromic patches", "nodal skin eruptions", "skin rash", "itching"],
+        	"responses":["You might be suffering from Fungal Infection"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"GERD",
+        	"patterns":["stomach pain", "chest pain", "ulcers on tongue", "vomiting", "acidity", "cough"],
+        	"responses":["You might be suffering from GERD"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Peptic ulcer disease",
+        	"patterns":["indigestion", "vomiting", "abdominal pain", "internal itching", "passage of gases", "loss of appetite"],
+        	"responses":["You might be suffering from Peptic ulcer disease"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"AIDS",
+        	"patterns":["patches in throat", "extra marital contacts", "muscle wasting", "high fever"],
+        	"responses":["You might be suffering from AIDS"],
+        	"context_set":[""]
+
+        },
+	
+	{
+        	"tag":"Diabetes",
+        	"patterns":["obesity", "irregular sugar level", "increased appetite", "restlessness", "lethargy", "fatigue", "polyuria", "weight loss", "excessive hunger", "blurred and distorted vision"],
+        	"responses":["You might be suffering from Diabetes"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Gastroenteritis",
+        	"patterns":["dehydration", "vomiting", "sunken eyes", "diarrhea"],
+        	"responses":["You might be suffering from Gastroenteritis"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Bronchial Asthma",
+        	"patterns":["family history", "fatigue", "breathlessness", "high fever", "mucoid sputum", "cough"],
+        	"responses":["You might be suffering from Bronchial Asthma"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Hypertension",
+        	"patterns":["dizziness", "chest pain", "lack of concentration", "loss of balance", "headache"],
+        	"responses":["You might be suffering from Hypertension"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Migraine",
+        	"patterns":["indigestion", "depression", "irritability", "excessive hunger", "visual disturbances", "acidity", "headache", "stiff neck", "blurred and distorted vision"],
+        	"responses":["You might be suffering from Migraine"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Cervical spondylosis",
+        	"patterns":["dizziness", "loss of balance", "neck pain", "weakness in limbs", "back pain"],
+        	"responses":["You might be suffering from Cervical spondylosis"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Paralysis (brain hemorrhage)",
+        	"patterns":["headache", "altered sensorium", "vomiting", "weakness of one body side"],
+        	"responses":["You might be suffering from Paralysis (brain hemorrhage)"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Jaundice",
+        	"patterns":["itching", "fatigue", "vomiting", "weight loss", "yellowish skin", "abdominal pain", "high fever", "dark urine"],
+        	"responses":["You might be suffering from Jaundice"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Dengue",
+        	"patterns":["muscle pain", "chills", "joint pain", "fatigue", "malaise", "skin rash", "pain behind the eyes", "vomiting", "back pain", "high fever", "headache", "red spots over body", "nausea", "loss of appetite"],
+        	"responses":["You might be suffering from Dengue"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Typhoid",
+        	"patterns":["chills", "fatigue", "diarrhea", "vomiting", "constipation", "abdominal pain", "high fever", "headache", "belly pain", "toxic look typhos ", "nausea"],
+        	"responses":["You might be suffering from Typhoid"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Hepatitis",
+        	"patterns":["itching", "lethargy", "fatigue", "malaise", "receiving blood transfusion", "loss of appetite", "abdominal pain", "yellowish skin", "yellow urine", "receiving unsterile injections", "yellowing of eyes", "dark urine"],
+        	"responses":["you might be suffering from Hepatitis B"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Tuberculosis",
+        	"patterns":["swelled lymph nodes", "chills", "fatigue", "malaise", "chest pain", "breathlessness", "blood in sputum", "vomiting", "weight loss", "phlegm", "high fever", "sweating", "mild fever", "yellowing of eyes", "cough", "loss of appetite"],
+        	"responses":["You might be suffering from Tuberculosis"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Common Cold",
+        	"patterns":["swelled lymph nodes", "chills", "redness of eyes", "runny nose", "fatigue", "malaise", "chest pain", "muscle pain", "congestion", "loss of smell", "throat irritation", "phlegm", "high fever", "headache", "sinus pressure", "cough", "continuous sneezing"],
+        	"responses":["you might be suffering from Common Cold"],
+        	"context_set":[""]
+
+        },
+	{
+        	"tag":"Heart attack",
+        	"patterns":["sweating", "chest pain", "vomiting", "breathlessness"],
+        	"responses":["You might be suffering from Heart attack"],
+        	"context_set":[""]
+
+        },
+        {
+        	"tag":"Varicose veins",
+        	"patterns":["prominent veins on calf", "swollen legs", "fatigue", "bruising", "cramps", "swollen blood vessels", "obesity"],
+        	"responses":["You might be suffering from Varicose veins"],
+        	"context_set":[""]
+        },
+        {
+            "tag":"Hypothyroidism",
+            "patterns":["depression", "abnormal menstruation", "lethargy", "dizziness", "fatigue", "puffy face and eyes", "mood swings", "enlarged thyroid", "irritability", "brittle nails", "swollen extremeties", "cold hands and feets", "weight gain"],
+            "responses":["You might be suffering from Hypothyroidism"],
+            "context_set":[""]
+        },
+        {
+            "tag":"Hypoglycemia",
+            "patterns":["fatigue", "anxiety", "drying and tingling lips", "vomiting", "irritability", "excessive hunger", "palpitations", "sweating", "headache", "nausea", "blurred and distorted vision", "slurred speech"],
+            "responses":["You might be suffering from Hypoglycemia"],
+            "context_set":[""]
+        },
+	  {
+        	"tag":"Osteoarthristis",
+        	"patterns":["swelling joints", "joint pain", "knee pain", "neck pain", "hip joint pain", "painful walking"],
+        	"responses":["You might be suffering from Osteoarthristis"],
+        	"context_set":[""]
+
+        },
+        {
+        	"tag":"Arthritis",
+        	"patterns":["swelling joints", "movement stiffness", "muscle weakness", "stiff neck", "painful walking"],
+        	"responses":["You might be suffering from Arthritis"],
+        	"context_set":[""]
+        },
+        {
+            "tag":"Urinary tract infection",
+            "patterns":["bladder discomfort", "continuous feel of urine", "foul smell of urine", "burning micturition"],
+            "responses":["You might be suffering from Urinary tract infection"],
+            "context_set":[""]
+        },
+        {
+            "tag":"Impetigo",
+            "patterns":["blister", "skin rash", "yellow crust ooze", "red sore around nose", "high fever"],
+            "responses":["You might be suffering from Impetigo"],
+            "context_set":[""]
+        }
+		
+   ]
+}
